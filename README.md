@@ -6,4 +6,6 @@
 
 ![Code Grade](https://www.code-inspector.com/project/29037/status/svg)
 
-![Code Security](https://github.com/Arnold-bornagain/getting-started/security/100%/blue)
+
+[![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/dwyl/goodparts "JavaScript The Good Parts")
+
