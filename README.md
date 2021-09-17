@@ -40,3 +40,7 @@ If you find typos or other issues with the tutorial, feel free to create a PR an
 If you have ideas on how to make the tutorial better or new content, please open an issue first before working on your idea. While we love input, we want to keep the tutorial  scoped to newcomers.
 As such, we may reject ideas for more advanced requests and don't want you to lose any work you might
 have done. So, ask first and we'll gladly hear your thoughts!
+
+
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a502bdfe97014e40b6c2f40a23154adf)](https://www.codacy.com/gh/Arnold-bornagain/getting-started/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Arnold-bornagain/getting-started&amp;utm_campaign=Badge_Grade)
