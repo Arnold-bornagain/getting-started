@@ -1,13 +1,12 @@
-orbs:
-  aws-cli: circleci/aws-cli@2.0.3
+name: Build
+on: [push, pull_request]
 jobs:
-  example-job:
-    docker:
-      # replace with your preferred image
-      - image: cimg/base:stable
+  build:
+    name: Build
+    runs-on: ubuntu-latest
     steps:
-      - aws-cli/install
-workflows:
-  example-workflow:
-    jobs:
-      - example-job
+    - uses: actions/checkout@v2
+    - name: Build
+      uses: docker/build-push-action@v1
+      with:
+        push: false
