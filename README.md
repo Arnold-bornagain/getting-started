@@ -5,3 +5,7 @@
 ![Code Quality Score](https://www.code-inspector.com/project/29037/score/svg)
 
 ![Code Grade](https://www.code-inspector.com/project/29037/status/svg)
+
+
+[![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/dwyl/goodparts "JavaScript The Good Parts")
+
