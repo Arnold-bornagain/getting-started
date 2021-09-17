@@ -7,8 +7,8 @@
     "prettify": "prettier -l --write \"**/*.js\"",
     "test": "jest",
     "dev": "nodemon src/index.js",
-    "lint": "node_modules/.bin/goodparts path/to/files/for/linting",
-    "pre-commit": ["lint"],
+    "lint": "node_modules/.bin/goodparts path/to/files/for/linting"
+    
   },
   "dependencies": {
     "body-parser": "^1.19.0",
