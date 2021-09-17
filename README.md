@@ -5,3 +5,5 @@
 ![Code Quality Score](https://www.code-inspector.com/project/29037/score/svg)
 
 ![Code Grade](https://www.code-inspector.com/project/29037/status/svg)
+
+![Code Security](https://github.com/Arnold-bornagain/getting-started)
