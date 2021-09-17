@@ -6,4 +6,4 @@
 
 ![Code Grade](https://www.code-inspector.com/project/29037/status/svg)
 
-![Code Security](https://github.com/Arnold-bornagain/getting-started)
+![Code Security](https://github.com/Arnold-bornagain/getting-started/security/100%/blue)
