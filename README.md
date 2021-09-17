@@ -1,5 +1,7 @@
 # Docker Getting Started Tutorial
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a36551321bc144418346fb1ae345f20e)](https://app.codacy.com/gh/Arnold-bornagain/getting-started?utm_source=github.com&utm_medium=referral&utm_content=Arnold-bornagain/getting-started&utm_campaign=Badge_Grade_Settings)
+
 This tutorial has been written with the intent of helping folks get up and running
 with containers and is designed to work with Docker Desktop. While not going too much 
 into depth, it covers the following topics:
